@@ -1,1 +1,0 @@
-# script-animal-simulator-by-C.N
